@@ -59,7 +59,7 @@ const Home = () => (
               src="/images/komal.jpeg"
               alt="Profile image"
               borderRadius="full"
-              max-width="95%"
+              maxWidth="95%"
               height=auto
             />
           </Box>
