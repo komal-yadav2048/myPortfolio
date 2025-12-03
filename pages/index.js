@@ -59,8 +59,8 @@ const Home = () => (
               src="/images/komal.jpeg"
               alt="Profile image"
               borderRadius="full"
-              width="95%"
-              height="100%"
+              max-width="95%"
+              height=auto
             />
           </Box>
         </Box>
@@ -71,7 +71,7 @@ const Home = () => (
           Work
         </Heading>
         <Paragraph>
-          Komal is a freelance and a full-stack developer based in Delhi with a
+          Komal is a full-stack developer(Frontend Focused) based in Bangalore with a
           passion for building digital services/stuff he wants. He has a knack
           for all things launching products, from planning and designing all the
           way to solving real-life problems with code. When not online, he loves
@@ -91,21 +91,17 @@ const Home = () => (
           Bio
         </Heading>
         <BioSection>
-          <BioYear>1997</BioYear>
-          Born in Delhi,India.
+          <BioYear>2001</BioYear>
+          Born in Bathinda, Punjab, India.
         </BioSection>
         <BioSection>
-          <BioYear>2017</BioYear>
-          Completed the Master&apos;s Program in the Graduate School of
-          Information Technology at Indian Institute of Technology Bombay.
+          <BioYear>2024</BioYear>
+          Completed the integrated B.Tech + M.Tech in IT program in the Graduate School of
+          Indian Institute of Information Technology and Management Gwalior.
         </BioSection>
         <BioSection>
-          <BioYear>2017</BioYear>
-          Worked at Amazon! India 
-        </BioSection>
-        <BioSection>
-          <BioYear>2019 to present</BioYear>
-          Works as a freelance
+          <BioYear>2025</BioYear>
+          Worked at Dezerv! India 
         </BioSection>
       </Section>
 
@@ -114,11 +110,8 @@ const Home = () => (
           I ♥
         </Heading>
         <Paragraph>
-          Art, Music,{' '}
-          
-           Playing Drums,{' '}
-          
-          Leica, Machine Learning
+          Bike Rides, Football, Gym, Art, Music,{' '}
+           Fifa{' '}
         </Paragraph>
       </Section>
 
